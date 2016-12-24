@@ -3,16 +3,8 @@
   opacity: 0%;
 }
 
-#bck {
-  -webkit-filter: blur(5px);
-  -moz-filter: blur(5px);
-  -o-filter: blur(5px);
-  -ms-filter: blur(5px);
-  filter: blur(5px);
-}
-
 #linkedin-icon {
-  width: 15%;
+  width: 100%;
 }
 
 h1 {

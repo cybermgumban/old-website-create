@@ -1,5 +1,6 @@
 #whole {
   padding: 20px 20px 20px 20px;
+  opacity: 0%;
 }
 
 #linkedin-icon {
@@ -8,7 +9,8 @@
 
 h1 {
   text-align: center;
-  font-family: Malgun Gothic;
+  font-family: Courier New;
+  font-size: 300%;
 }
 
 #top-row {
@@ -16,19 +18,24 @@ h1 {
 }
 
 #mid {
-  padding: 20px 60px 20px 60px;
+  padding: 5px 100px 5px 100px;
 }
 
 h3 {
   text-align: center;
-  font-size: 150%;
-  font-family: Malgun Gothic;
+  font-size:  200%;
+  font-family: Courier New;
 }
 
 h4 {
-  font-family: Malgun Gothic;
+  font-family: Courier New;
   text-align: justify;
   font-size: 110%;
   margin: 20px 60px 20px 60px;
   text-indent: 2em;
+}
+
+h5 {
+  text-align: center;
+  color: #e2e2e2;
 }

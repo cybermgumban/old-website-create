@@ -12,6 +12,10 @@ h1 {
   font-size: 300%;
 }
 
+h2 {
+  text-align: center;
+}
+
 #top-row {
   padding: 10px 60px 10px 60px;
 }

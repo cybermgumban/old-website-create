@@ -1,74 +1,42 @@
 #whole {
   padding: 20px 20px 20px 20px;
-  background-color: silver;
 }
 
-#fb-icon {
-  width: 30px;
+#bck {
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
 }
 
 #linkedin-icon {
-  width: 30px;
+  width: 15%;
 }
 
 h1 {
-  font-family: papyrus;
-}
-
-.right {
-  float: right;
+  text-align: center;
+  font-family: Malgun Gothic;
 }
 
 #top-row {
-  padding: 20px 60px 20px 60px;
-  background-color: #7ea8ea;
-  border-style: dotted;
-}
-
-#about {
-  padding: 10px 20px;
-}
-
-#portfolio {
-  padding: 10px 20px;
-}
-
-#contact {
-  padding: 10px 20px;
+  padding: 10px 60px 10px 60px;
 }
 
 #mid {
   padding: 20px 60px 20px 60px;
-  background-color: white;
-  border-style: groove;
 }
 
 h3 {
   text-align: center;
   font-size: 150%;
-  font-family: broadway;
+  font-family: Malgun Gothic;
 }
 
 h4 {
-  font-family: broadway;
+  font-family: Malgun Gothic;
   text-align: justify;
-  font-size: 120%;
-  margin: 40px 80px 40px 80px;
-}
-
-.col-3 {
-  width: 31.5%;
-}
-
-#zeus {
-  width: 95%;
-}
-
-#middle {
-  background-color: black;
-  padding: 10px 0px 10px 0px;
-}
-
-h4 {
-  text-align: justify;
+  font-size: 110%;
+  margin: 20px 60px 20px 60px;
+  text-indent: 2em;
 }

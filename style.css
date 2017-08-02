@@ -6,7 +6,7 @@
 }
 
 #in-border-left {
-	background-color: white #c6e2ff;
+	background-color: #ccccff;
 	border-style: solid;
 	border-color: white #d8d8d8;
 	border-width: 1px;
@@ -17,7 +17,7 @@
 }
 
 #in-border-right {
-	background-color: white #ccccff;
+	background-color: #ccccff;
 	border-style: solid;
 	border-color: white #d8d8d8;
 	border-width: 1px;

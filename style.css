@@ -8,7 +8,7 @@
 #in-border-left {
 	background-color: white, #c6e2ff;
 	border-style: solid;
-	border-color: black #d8d8d8;
+	border-color: #d8d8d8;
 	border-width: 1px;
 	border-radius: 5px;
 	margin: 1px 0px 1px 15px;
@@ -19,7 +19,7 @@
 #in-border-right {
 	background-color:#ccccff;
 	border-style: solid;
-	border-color: black #d8d8d8;
+	border-color: #d8d8d8;
 	border-width: 1px;
 	border-radius: 5px;
 	margin: 1px 15px 1px 0px;
